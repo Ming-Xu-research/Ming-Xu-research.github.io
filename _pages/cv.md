@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: 
   - /resume
 ---
 
@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Yannan University, China, 2018
-Nowadays:
-* Ph.D in Fudan University, China (expected)
+* Ph.D in Fudan University, China (2023 expected)
 
 Work experience
 ======
