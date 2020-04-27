@@ -13,7 +13,7 @@ name                     : &Ming Xu "Student"
 description              : &description "A Ph.D student at Fudan University"
 url                      : https://Ming-Xu-research.github.io
 repository               : "Ming-Xu-research.github.io"
-teaser                   : "xuming.jpeg"
+teaser                   : "xuming.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,9 +80,9 @@ analytics:
 # Site Author
 author:
   name             : "Ming Xu"
-  avatar           : "xuming.jpeg"
+  avatar           : "xuming.jpg"
   bio              : "A Student in Fudan University that pursuing her Ph.D degree"
-  location         : "Pudong Are, Shanghai, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
