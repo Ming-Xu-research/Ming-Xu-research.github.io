@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Welcome to our research!"
 collection: publications
 permalink: /publication/misc.md
 date: 2020-04-27
 
 ---
-
-## Welcome to our research!
 
 Our research intesest mainly includes the password security. Here, we list some papers published by our team in the past. 
 - A Large-Scale Empirical Analysis of Chinese Web Passwords(2014 USENIX) [paper](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/li_zhigong)
