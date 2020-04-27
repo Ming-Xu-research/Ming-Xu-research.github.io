@@ -1,3 +1,11 @@
+---
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/misc.md
+date: 2020-04-27
+
+---
+
 ## Welcome to our research!
 
 Our research intesest mainly includes the password security. Here, we list some papers published by our team in the past. 
