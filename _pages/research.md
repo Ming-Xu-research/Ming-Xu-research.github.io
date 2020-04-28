@@ -26,7 +26,7 @@ Currently, our research mainly focuses on the following four directions and list
 - Designing Password Policies for Strength and Usability. (TISSEC 2016) [paper](https://dl.acm.org/doi/10.1145/2891411)
 
 ### Hybrid password guessing methods
-- Measuring Real-World Accuracies and Biases in Modeling Password Guessability. (USENIX 2015
+- Measuring Real-World Accuracies and Biases in Modeling Password Guessability. (USENIX 2015)
 [paper](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ur)
 - OMEN: Faster Password Guessing Using an Ordered Markov Enumerator. (ESSoS 2015) [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-15618-7_10)
 - Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks. (USENIX 2016) [paper](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
