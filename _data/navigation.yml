@@ -19,7 +19,7 @@ main:
     url: /cv/
 
   - title: "Recommended papers"
-  - url: /research/
+    url: /research/
     
 #  - title: "Guide"
 #    url: /markdown/
