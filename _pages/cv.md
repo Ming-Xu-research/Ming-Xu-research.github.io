@@ -12,12 +12,15 @@ redirect_from:
 Education
 ======
 * B.S. in Yannan University, China, 2018
-* Ph.D in Fudan University, China (2023 expected)
+* Ph.D in Fudan University, China, 2023
+* Postdoc in CISPA, Germany, 
 
-Work experience
+Research Interests
 ======
-* 2018-2019: 
-  * Long password security
+* Textual Password Security: analyze the internal composition units of a password.
+* Pre-trained Framework in Password Guessing Applications;
+* Membership Inference Attack;
+
 
 
   
