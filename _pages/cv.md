@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Homepage"
+permalink: /Homepate/
 author_profile: true
 redirect_from: 
   - /resume
@@ -9,17 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Biography
 ======
-* B.S. in Yannan University, China, 2018
-* Ph.D in Fudan University, China, 2023
-* Postdoc in CISPA, Germany, 
+I received my Ph.D degree at data security and analysis lab, Fudan Univeristy, advised by Prof. Weili Han. 
+Before that, I received my B.S. degree in Yannan University, China, 2018. 
+
 
 Research Interests
 ======
-* Textual Password Security: analyze the internal composition units of a password.
-* Pre-trained Framework in Password Guessing Applications;
-* Membership Inference Attack;
+My current research topic are textual password security. Specificially, I mainly focus on the internal paradigm of textual passwords to explore the security implications, ranging from the delicated password composition, pre-trained model applications, and long password guessing. 
+
 
 
 
