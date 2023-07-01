@@ -12,7 +12,6 @@ Education
 ======
 **Fudan University**, Shanghai, China, 2018-2023 
 <br>Ph.D degree (Computer Scienece), Supervisor: Weili Han. Textual password security
-
 <br>**Yunnan University**, Kunming, China, 2014-2018
 <br>Bachelor's degree (Software Engineering)
 
