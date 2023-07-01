@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Xu / Student"
+title                    : "Dr. Ming Xu"
 title_separator          : "-"
-name                     : &Ming Xu "Student"
-description              : &description "A Ph.D student at Fudan University"
+name                     : &Ming Xu
+description              : &description "School of Computer Science, Fudan University"
 url                      : https://Ming-Xu-research.github.io
 repository               : "Ming-Xu-research.github.io"
 teaser                   : "xuming.jpg"
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Ming Xu"
   avatar           : "xuming.jpg"
-  bio              : "A Student in Fudan University who pursues her Ph.D degree in Fudan University."
+  bio              : "School of Computer Science, Fudan University."
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  dblp           : "https://dblp.org/pid/43/3362-6.html"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   #email            :
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
