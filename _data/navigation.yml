@@ -1,8 +1,14 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+  
   - title: "Publications"
     url: /publications/
 
+  - title: "Awards"
+    url: /awards/
+    
 #  - title: "Talks"
 #    url: /talks/    
 
