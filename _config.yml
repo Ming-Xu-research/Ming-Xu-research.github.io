@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ming Xu"
+title                    : "Ming Xu's homepage"
 title_separator          : "-"
-name                     : &Ming Xu
+name                     : &name "Ming Xu"
 description              : &description "School of Computer Science, Fudan University"
 url                      : https://Ming-Xu-research.github.io
 repository               : "Ming-Xu-research.github.io"
@@ -79,14 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Xu"
+  name             : "Dr. Ming Xu"
   avatar           : "xuming.jpg"
   bio              : "School of Computer Science, Fudan University."
   location         : "Shanghai, China"
   employer         :
   dblp           : "https://dblp.org/pid/43/3362-6.html"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
-  #email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1061-819X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
