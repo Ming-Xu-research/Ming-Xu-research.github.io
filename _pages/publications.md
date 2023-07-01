@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 - Improving Real-world Password Guessing Attacks via Bi-directional Transformers (USENIX Security 2023) <br>
