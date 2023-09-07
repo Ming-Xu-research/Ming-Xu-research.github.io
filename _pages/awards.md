@@ -9,4 +9,3 @@ author_profile: true
 X.Sean.Wang) "Vulnerability modeling and response methods of user passwords"
 - Student Grant, The USENIX Association (2023, $600) 
 - Scholarships in Fudan University (five times)
-- Outstanding Students in Yunnan Province
