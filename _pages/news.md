@@ -5,6 +5,5 @@ permalink: /news/
 author_profile: true
 ---
 
-- I am actively seeking for a Postdoc position. 
 
-- I recently graduate from Fudan University. 
+- 2023.6, I graduate from Fudan University. 
