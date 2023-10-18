@@ -16,6 +16,10 @@ I specialize in the field of security and privacy, focusing on using modern data
 
 Over the past five years (2018-), I have actively contributed to this field by publishing more than 5+ papers as the primary authors in top-tier conferences and journals such as USENIX Security, CCS, TIFS, among others.
 
+I am always willing to work together on interesting projects with external collaborators. Drop me an email if you are interested!
+
+
+
 
 
 
