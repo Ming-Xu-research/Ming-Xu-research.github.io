@@ -10,7 +10,7 @@ redirect_from:
 
 Welcom to the Ming Xu's Homepage! Lorem ipsum.
 
-My name is Ming Xu （徐铭). I received my Ph.D degree from School of Computer Science, Fudan University, China, advised by Prof Weili Han in June, 2023. 
+My name is Ming Xu （徐铭). I received my Ph.D degree from School of Computer Science, Fudan University, China. I am very fortunate to closely work with Prof. Weili Han (my supervisors) and Dr. Xinyi Zhang in the past five years at Fudan University.
 
 I specialize in the field of usable security and privacy, focusing on using modern data-driven models to support users' decision-makings. My particular interests lie in password security and analysis. 
 Over the past five years (2018-), I have actively contributed to this field by publishing more than 5+ papers as the primary authors in top-tier conferences and journals such as USENIX Security, CCS, TIFS, among others.
