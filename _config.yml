@@ -39,7 +39,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "xum18@fudan.edu.cn"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -113,6 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  email            : "xum18@fudan.edu.cn"
 
 
 # Reading Files
