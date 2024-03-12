@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Academic Service
-======
 
 **PC Members**
 TIFS'24, ACSAC'24, SecWeb'24, FAC'24, COSE'23, EAJ'23  
