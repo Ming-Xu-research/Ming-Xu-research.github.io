@@ -17,9 +17,7 @@ My research interests focus on usable security and privacy. My approach involves
 
 ### Research Interests  
 Textual password security
-
 Access control
-
 LLM's application secuirty
 
 I am willing to work together on interesting projects with external collaborators. Do not hesitate to drop me an email if you are interested!
