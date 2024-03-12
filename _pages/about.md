@@ -15,10 +15,9 @@ My name is Ming Xu （徐铭). Currently, I am a research fellow in National Uni
 
 My research interests focus on usable security and privacy. My approach involves leveraging modern data-driven models to empower users in making informed decisions. Over the past five years (2018-), I have actively contributed to this field by publishing in top-tier conferences and journals such as USENIX Security, CCS, ACSAC, TIFS, among others.
 
-### Research Interests
-Usable security and security  
+### Research Interests  
 Textual password security    
-LLM's secuirty and privacy
+LLM's application secuirty
 
 I am willing to work together on interesting projects with external collaborators. Do not hesitate to drop me an email if you are interested!
 
