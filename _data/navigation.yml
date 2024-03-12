@@ -24,8 +24,8 @@ main:
   - title: "Patents"
     url: /patents/
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Academic Service"
+    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
