@@ -14,5 +14,5 @@ author_profile: true
    Weili Han, **Ming Xu**, Juejie Zhang, Chuanwang Wang, Kai Zhang, X.Sean.Wang <br> [pdf](https://ieeexplore.ieee.org/document/9121288)
 - An Explainable Password Strength Meter Addon via Textual Pattern Recognition (SCN 2019) <br>
    **Ming Xu**, Weili Han <br> [pdf](https://www.hindawi.com/journals/scn/2019/5184643/)
-- 参数化混合口令猜测方法 (计算机研究与发展) <br>
-   韩伟力,  张俊杰,  **徐铭**,  王传旺,  张浩东,  何震瀛,  陈虎 <br> [pdf](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.20210456)
+
+
