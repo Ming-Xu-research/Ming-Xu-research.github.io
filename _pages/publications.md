@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 - [ASE 2024] Detecting and Explaining Anomalies Caused by Web Tamper Attacks via Building Consistency-based Normality <br>
-  Yifan Liao*, **Ming Xu***, Yun Lin, Xiwen Teoh, Xiaofei Xie, Ruitao Feng, Frank Liauw, Hongyu Zhang, Jin Song Dong
+  Yifan Liao, **Ming Xu**, Yun Lin, Xiwen Teoh, Xiaofei Xie, Ruitao Feng, Frank Liauw, Hongyu Zhang, Jin Song Dong
   [paper]
 - [USENIX Security 2023] Improving Real-world Password Guessing Attacks via Bi-directional Transformers <br>
   **Ming Xu**, Jitao Yu, Xinyi Zhang, Chuanwang Wang, Shenghao Zhang, Haoqi Wu, Weili Han <br>
