@@ -20,9 +20,9 @@ My research interests focus on usable security and privacy. My approach involves
 ### Research Interests  
 
 Web Security  
-Textual Password Security
-Intrusion Detection
-Security Operation Centers (SOCs)  
+Textual Password Security  
+Intrusion Detection  
+Security Operation Centers (SOCs)    
 
 
 
