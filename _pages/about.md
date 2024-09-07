@@ -15,7 +15,7 @@ My name is Ming Xu （徐铭). I am a research fellow in National University of 
 
 I am interested in pursuing the beautiful convergence of chaotic data into informed insights in the usable security and privacy aspects. For example, the chaotic data consists of textual passwords and security event logs:
 
-  - **Patterns**: Textual passwords have their specifically-used patterns like ``p@ssw0rd4ever'' [CCS'21, TIFS'20].
+  - **Patterns**: Textual passwords have their specifically-used patterns like ``p@ssw0rd4ever'' [CCS'21, TIFS'20] (https://dl.acm.org/doi/10.1145/3460120.3484743).
   - **Understandings**: Patterns are useful in improving real-world guessing [USENIX SEC'23].  
   - **Applications**: Patterns and understandings can help a more reliable password strength meter. Security event logs can help monitor the anomalities in real time [ASE'24]. 
 
