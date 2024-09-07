@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcom to my homepage! Lorem ipsum.
+Welcom to my homepage!
 
 ### Bio
 My name is Ming Xu （徐铭). I am a research fellow in National University of Singapore. I received my Ph.D degree from School of Computer Science, Fudan University, China in June, 2023. I am very fortunate to closely work with Prof. Weili Han (my supervisor) and Dr. Xinyi Zhang at Fudan University. 
