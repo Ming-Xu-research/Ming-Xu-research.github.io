@@ -4,6 +4,8 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+You can also find more publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ).
+
 - **[ASE 2024]** Detecting and Explaining Anomalies Caused by Web Tamper Attacks via Building Consistency-based Normality <br>
   Yifan Liao\*, **Ming Xu\***, Yun Lin, Xiwen Teoh, Xiaofei Xie, Ruitao Feng, Frank Liauw, Hongyu Zhang, Jin Song Dong   
   [paper to be published]
