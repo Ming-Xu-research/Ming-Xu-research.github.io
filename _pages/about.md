@@ -17,7 +17,7 @@ I am interested in pursuing the beautiful convergence of chaotic data into infor
 
   - **Patterns**: Textual passwords have their specifically-used patterns like ``p@ssw0rd4ever'' [CCS'21, TIFS'20](https://dl.acm.org/doi/10.1145/3460120.3484743).
   - **Understandings**: Patterns are useful in improving real-world guessing [USENIX SEC'23](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-ming).  
-  - **Applications**: Patterns and understandings can help a more reliable password strength meter. Security event logs can help monitor the anomalities in real time [ASE'24](https://ming-xu-research.github.io/). 
+  - **Applications**: Patterns and understandings can help a more reliable password strength meter. Security event logs can help monitor the anomalities in real time [ASE'24](https://jasonbourne1998.github.io/data/ASE24.pdf). 
 
 
 
