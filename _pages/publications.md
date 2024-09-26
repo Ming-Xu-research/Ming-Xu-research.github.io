@@ -8,7 +8,7 @@ You can also find more publications on [Google Scholar](https://scholar.google.c
 
 - **[ASE 2024]** Detecting and Explaining Anomalies Caused by Web Tamper Attacks via Building Consistency-based Normality <br>
   Yifan Liao\*, **Ming Xu\***, Yun Lin, Xiwen Teoh, Xiaofei Xie, Ruitao Feng, Frank Liauw, Hongyu Zhang, Jin Song Dong   
-  [paper to be published]
+  [paper](https://jasonbourne1998.github.io/data/ASE24.pdf)
 - **[USENIX Security 2023]** Improving Real-world Password Guessing Attacks via Bi-directional Transformers <br>
   **Ming Xu**, Jitao Yu, Xinyi Zhang, Chuanwang Wang, Shenghao Zhang, Haoqi Wu, Weili Han <br>
   [paper](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-ming)
