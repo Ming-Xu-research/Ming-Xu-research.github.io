@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-- 2024.9, I have been selected as a mentee at F+Cube 2024 (https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/f-cube), an award-winning Future Female+ Faculty mentorship program.
+- 2024.9, I have been selected as a mentee at F+Cube 2024(https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/f-cube), an award-winning Future Female+ Faculty mentorship program.
 - 2024.8, I join the PC program in ICLR'25. Looking forward to your submissions! 
 - 2024.5, I join the PC program in NIPS'24. Looking forward to your submissions!
 - 2024.3, I have received 100 citations! 
