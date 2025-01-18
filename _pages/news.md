@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+- 2025.1.18, Our paper on accelerating password guessing has been accepted by TDSC! This work was largely completed during my PhD studies.
 - 2024.8, I join the PC program in ICLR'25. Looking forward to your submissions! 
 - 2024.5, I join the PC program in NIPS'24. Looking forward to your submissions!
 - 2024.3, I have received 100 citations! 
