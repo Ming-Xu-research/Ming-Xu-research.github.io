@@ -16,8 +16,9 @@ You can also find more publications on [Google Scholar](https://scholar.google.c
   [paper](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-ming)
 - **[CCS 2021] (CCF-A)** Chunk-Level Password Guessing: Towards Modeling Refined Password Composition Representations <br>
   **Ming Xu**, Chuanwang Wang, Jitao Yu, Juejie Zhang, Kai Zhang, Weili Han <br> [paper](https://dl.acm.org/doi/10.1145/3460120.3484743)
- - **[TIFS 2021 (CCF-A)]** TransPCFG: Transferring the Grammars From Short Passwords to Guess Long Passwords Effectively <br> [paper](https://ieeexplore.ieee.org/document/9121288)
-  Weili Han, **Ming Xu**, Junjie Zhang, Chuanwang Wang, Kai Zhang, X. Sean Wang. 
+ - **[TIFS 2021 (CCF-A)]** TransPCFG: Transferring the Grammars From Short Passwords to Guess Long Passwords Effectively <br>
+  Weili Han, **Ming Xu**, Junjie Zhang, Chuanwang Wang, Kai Zhang, X. Sean Wang.
+ [paper](https://ieeexplore.ieee.org/document/9121288)
 - **[SCN 2019]** An Explainable Password Strength Meter Addon via Textual Pattern Recognition <br>
    **Ming Xu**, Weili Han <br> [paper](https://www.hindawi.com/journals/scn/2019/5184643/)
 
