@@ -7,7 +7,7 @@ author_profile: true
 You can also find more publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ).
 
 - **[TDSC 2025] (CCF-A)** Using Parallel Techniques to Accelerate PCFG-based Password Cracking Attack.  
-  **Ming Xu**, Shenghao Zhang, Kai Zhang, Haodong Zhang, Junjie Zhang, Jitao Yu, Luwei Cheng, Weili Han paper [paper to be published]
+  **Ming Xu**, Shenghao Zhang, Kai Zhang, Haodong Zhang, Junjie Zhang, Jitao Yu, Luwei Cheng, Weili Han   paper [paper to be published]
 - **[ASE 2024] (CCF-A)** Detecting and Explaining Anomalies Caused by Web Tamper Attacks via Building Consistency-based Normality <br>
   Yifan Liao\*, **Ming Xu\***, Yun Lin, Xiwen Teoh, Xiaofei Xie, Ruitao Feng, Frank Liauw, Hongyu Zhang, Jin Song Dong   
   [paper](https://jasonbourne1998.github.io/data/ASE24.pdf)
