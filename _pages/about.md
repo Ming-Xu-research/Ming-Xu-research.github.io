@@ -11,7 +11,7 @@ redirect_from:
 Welcom to my homepage!
 
 ### Bio
-My name is Ming Xu（徐铭). I am a research fellow in National University of Singapore. I received my Ph.D. in Computer Science from Fudan University, China, in June 2023, under the supervision of Prof. Weili Han. I am very fortunate to work closely with Dr. Xinyi Zhang in researches.  
+My name is Ming Xu（徐铭). I am a research fellow in National University of Singapore. I received my Ph.D. in Computer Science from Fudan University, China, in June 2023, under the supervision of Prof. Weili Han. I am very fortunate to work closely with Dr. Xinyi Zhang during my PhD studies. 
 
 I am interested in pursuing the beautiful convergence of chaotic data into informed insights in the usable security and privacy aspects. For example, the chaotic data consists of textual passwords and security event logs:
 
