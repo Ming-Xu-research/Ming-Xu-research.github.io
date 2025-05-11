@@ -6,7 +6,7 @@ author_profile: true
 ---
 You can also find more publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ).
 
-- **[Asia CCS 2025] (Core-A)** On the Account Security Risks Posed by Password Strength Meters.
+- **[Asia CCS 2025] (Core-A)** On the Account Security Risks Posed by Password Strength Meters.                                        
   **Ming Xu**, Weili Han, Jitao Yu, Jing Liu, Xinyi Zhang, Yun Lin, Jin Song Dong 
 - **[TDSC 2025] (CCF-A)** Using Parallel Techniques to Accelerate PCFG-based Password Cracking Attack.  
   **Ming Xu**, Shenghao Zhang, Kai Zhang, Haodong Zhang, Junjie Zhang, Jitao Yu, Luwei Cheng, Weili Han  
