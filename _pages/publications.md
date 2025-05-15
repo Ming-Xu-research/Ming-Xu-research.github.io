@@ -23,7 +23,3 @@ You can also find more publications on [Google Scholar](https://scholar.google.c
  - **[TIFS 2021 (CCF-A)]** TransPCFG: Transferring the Grammars From Short Passwords to Guess Long Passwords Effectively <br>
   Weili Han, **Ming Xu**, Junjie Zhang, Chuanwang Wang, Kai Zhang, X. Sean Wang.  
  [paper](https://ieeexplore.ieee.org/document/9121288)
-- **[SCN 2019]** An Explainable Password Strength Meter Addon via Textual Pattern Recognition <br>
-   **Ming Xu**, Weili Han <br> [paper](https://www.hindawi.com/journals/scn/2019/5184643/)
-
-
