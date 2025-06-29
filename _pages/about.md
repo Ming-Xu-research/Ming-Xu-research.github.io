@@ -25,11 +25,10 @@ I am working to protect the digital safety of everyone online in the usable secu
 
 ### Broader Research Interests  
 
-- Web Security  
+- Data-driven Security
+- Web Security
 - Textual Password Security
 - Cyber Threat Intelligence
-- Intrusion Detection 
-
 
 
 
