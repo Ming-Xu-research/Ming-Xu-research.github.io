@@ -11,7 +11,7 @@ redirect_from:
 Welcom to my homepage!
 
 ### Bio
-My name is Ming Xu（徐铭). I am a research fellow in National University of Singapore. I received my Ph.D. Degree from Fudan University under the supervision of Prof. Weili Han. 
+My name is Ming Xu（徐铭). I am a research fellow in National University of Singapore. I received my Ph.D. Degree from Fudan University under the supervision of Prof. Weili Han (https://dsg.fudan.edu.cn/#/hwl). 
 
 I am working to protect the digital safety of everyone online in the usable security and privacy aspects. My interests span security, privacy, fraud, misinformation, and practical applications of artificial intelligence and LLMs. Several works are listed below.  
 
