@@ -7,7 +7,8 @@ author_profile: true
 You can also find more publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ).
 
 - **[ICSE 2026] (CCF-A)** RulePilot: An LLM-powered Agent for Security Rule Generation and Conversion. 
-  Hongtai Wang, **Ming Xu\*\#**, Yanpei Guo, Weili Han, Hoon Wei Lim, Jin Song Dong. 
+  Hongtai Wang, **Ming Xu\*\#**, Yanpei Guo, Weili Han, Hoon Wei Lim, Jin Song Dong.
+  [paper]()
 
 - **[AsiaCCS 2025] (Core-A)** On the Account Security Risks Posed by Password Strength Meters.                                        
   **Ming Xu**, Weili Han, Jitao Yu, Jing Liu, Xinyi Zhang, Yun Lin, Jin Song Dong  
