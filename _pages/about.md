@@ -24,7 +24,7 @@ I am working to protect the digital safety of everyone online in the usable secu
 ### Broader Research Interests  
 
 - Data-driven Security
-- Web Security
+- Agentic AI for Cyber Security
 - Textual Password Security
 - Cyber Threat Intelligence
 
