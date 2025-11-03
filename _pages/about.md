@@ -15,10 +15,8 @@ My name is Ming Xu（徐铭). I am a research fellow in National University of S
 
 I am working to protect the digital safety of everyone online in the usable security and privacy aspects. My interests span security, privacy, fraud, misinformation, and practical applications of artificial intelligence and LLMs. Several works are listed below.  
 
-  - **Patterns**: Textual passwords have their specifically-used patterns like ``p@ssw0rd4ever'' [CCS'21, TIFS'20](https://dl.acm.org/doi/10.1145/3460120.3484743).
-  - **Understandings**: Real-world guessing scenarios [USENIX SEC'23](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-ming); Privacy risks within PSMs [AsiaCCS'25](https://arxiv.org/abs/2505.08292)  
-  - **Applications**: LLM-based Web Anomaly Detectors [ASE'24](https://jasonbourne1998.github.io/data/ASE24.pdf). Real-world Crackers [TDSC'25](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7zMod48AAAAJ&citation_for_view=7zMod48AAAAJ:zYLM7Y9cAGgC)
-
+  - **Agentic SOCs**: Agentic SOC represents a paradigm shift in security operations, integrating autonomous agents to streamline the threat detection and response. Key components include Agentic SIEM-rule creation [ICSE'26](https://ming-xu-research.github.io/files/Rule_Gen_ICSE.pdf), SIEM-rule conversion, and LLM-based Web Anomaly Detectors [ASE'24](https://jasonbourne1998.github.io/data/ASE24.pdf), which together enable adaptive, intelligent, and scalable threat discovery.
+  - **Robust Authentications**: Designing the next-generation robust authentication mechanisms by uncovering the behavioral and structural foundations of human-chosen passwords. Our work reveals the inherent patterns of textual passwords such as “p@ssw0rd4ever” [CCS'21](https://dl.acm.org/doi/10.1145/3460120.3484743), exposes real-world password guessing behaviors and practical attack scenarios [USENIX SEC'23](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-ming), [TDSC'25](https://ieeexplore.ieee.org/document/10849657/), and identifies emerging privacy risks within probabilistic strength meters (PSMs) [AsiaCCS'25](https://arxiv.org/abs/2505.08292).
 
 **Recently, I have several opportunities for visiting/master/PhD in NCS-NUS lab especially for LLMs. If you are interested in joining or remotely working with us, feel free to drop an email to me: mingxu@nus.edu.sg**
 
