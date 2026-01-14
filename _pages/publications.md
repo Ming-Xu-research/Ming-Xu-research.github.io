@@ -6,6 +6,10 @@ author_profile: true
 ---
 You can also find more publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ).
 
+-**[WWW 2026] (CCF-A)** ARuleCon: Agentic Security Rule Conversion.
+**Ming Xu**, Hongtai Wang, Yanpei Guo, Zhengmin Yu, Weili Han, Hoon Wei Lim, Jin Song Dong, Jiaheng Zhang
+[paper](to be published)
+
 - **[ICSE 2026] (CCF-A)** RulePilot: An LLM-powered Agent for Security Rule Generation.  
   Hongtai Wang, **Ming Xu\*\#**, Yanpei Guo, Weili Han, Hoon Wei Lim, Jin Song Dong.  
   [paper](https://arxiv.org/abs/2511.12224)
