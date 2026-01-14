@@ -6,7 +6,7 @@ author_profile: true
 ---
 You can also find more publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ).
 
--**[WWW 2026] (CCF-A)** ARuleCon: Agentic Security Rule Conversion.
+- **[WWW 2026] (CCF-A)** ARuleCon: Agentic Security Rule Conversion.
 **Ming Xu**, Hongtai Wang, Yanpei Guo, Zhengmin Yu, Weili Han, Hoon Wei Lim, Jin Song Dong, Jiaheng Zhang
 [paper](to be published)
 
