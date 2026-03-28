@@ -7,7 +7,7 @@ author_profile: true
 You can also find more publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7zMod48AAAAJ).
 
 - **[SP 2026] (CCF-A)** MoPE: A Mixture of Password Experts for Improving Password Guessing.   
-  Duan Mingjian, **Ming Xu**, Shenghao Zhang, Weili Han. [paper] (to be published)
+  Mingjian Duan, **Ming Xu**, Shenghao Zhang, Weili Han. [paper] (to be published)
 - **[WWW 2026] (CCF-A)** ARuleCon: Agentic Security Rule Conversion.   
 **Ming Xu**, Hongtai Wang, Yanpei Guo, Zhengmin Yu, Weili Han, Hoon Wei Lim, Jin Song Dong, Jiaheng Zhang
 [paper](to be published)
